@@ -44,7 +44,6 @@ img {
 
 /* MEDIA */
 
-
 @media only screen and (max-width: 500px) {
   img {
     width: 300px;
